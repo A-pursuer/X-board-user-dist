@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+  <base href="/theme/{{$theme}}/">
+  <meta charset="utf-8" />
+  <link href="./favicon.svg" rel="icon" />
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <meta content="#102693" name="theme-color" />
+  <link href="./favicon.svg" rel="apple-touch-icon" />
+  <title>{{$title}}</title>
+  <meta name="description" content="Self-hosted XBoard user portal" />
+  <meta name="copyright" content="XBoard contributors" />
+  <meta name="repository" content="github.com/A-pursuer/X-board/tree/feature/multi-subscription-v2/user-src" />
+  <meta name="robots" content="index,follow" />
+  <meta name="author" content="XBoard contributors">
+  <script type="module" crossorigin src="./static/js/index.fe95ca3d72d3.js"></script>
+  <link rel="modulepreload" crossorigin href="./static/js/react-vendor.d0d30b5e4991.chunk.js">
+  <link rel="modulepreload" crossorigin href="./static/js/emotion.c4ec4575f222.chunk.js">
+  <link rel="modulepreload" crossorigin href="./static/js/mui-core.eccecf3f74d6.chunk.js">
+  <link rel="modulepreload" crossorigin href="./static/js/state-management.897e5d172777.chunk.js">
+  <link rel="modulepreload" crossorigin href="./static/js/animation.12db07b84e1b.chunk.js">
+  <link rel="modulepreload" crossorigin href="./static/js/forms.18a9037dbbb2.chunk.js">
+  <link rel="modulepreload" crossorigin href="./static/js/utils.af5d980873fa.chunk.js">
+  <link rel="modulepreload" crossorigin href="./static/js/hooks.cdd5ad789d4d.chunk.js">
+  <link rel="modulepreload" crossorigin href="./static/js/mui-x.579d56aae6a7.chunk.js">
+  <link rel="modulepreload" crossorigin href="./static/js/ui-misc.ada933bd6522.chunk.js">
+  <link rel="modulepreload" crossorigin href="./static/js/i18n.d2e018c7a74d.chunk.js">
+  <link rel="modulepreload" crossorigin href="./static/js/antd.4e77fb476ab4.chunk.js">
+  <link rel="modulepreload" crossorigin href="./static/js/dev-tools.a077691d07d5.chunk.js">
+  <link rel="stylesheet" href="./static/css/index.786e222e9d9f.css">
+  <script type="module">try{import.meta.url;import("_").catch(()=>1);}catch(e){}window.__vite_is_modern_browser=true;</script>
+  <script type="module">!function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy build because dynamic import or import.meta.url is unsupported, syntax error above should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
+
+  <script>
+    window.settings = {
+      title: @json($title),
+      description: @json($description),
+      logo: @json($logo),
+      background_url: @json($theme_config['background_url'] ?? ''),
+      api: '',
+      i18n: ['zh-CN', 'en-US']
+    };
+  </script>
+</head>
+<body>
+  <noscript>You need to enable JavaScript to run this app.</noscript>
+  <div id="root"></div>
+  
+  <script>
+    window.global = window;
+  </script>
+  <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
+  <script nomodule crossorigin id="vite-legacy-polyfill" src="./static/js/polyfills-legacy.6bf0a4f23138.js"></script>
+  <script nomodule crossorigin id="vite-legacy-entry" data-src="./static/js/index-legacy.d55dea9aea6f.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+  {!! $theme_config['custom_html'] ?? '' !!}
+</body>
+</html>

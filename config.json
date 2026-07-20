@@ -1,0 +1,22 @@
+{
+  "name": "XBoardUser",
+  "description": "Self-maintained XBoard user portal with multi-subscription support",
+  "version": "2.0.0",
+  "images": "",
+  "configs": [
+    {
+      "label": "背景图片 URL",
+      "placeholder": "留空使用默认背景",
+      "field_name": "background_url",
+      "field_type": "input",
+      "default_value": ""
+    },
+    {
+      "label": "自定义页脚 HTML",
+      "placeholder": "可用于客服或统计代码",
+      "field_name": "custom_html",
+      "field_type": "textarea",
+      "default_value": ""
+    }
+  ]
+}
