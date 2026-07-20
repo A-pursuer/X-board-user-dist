@@ -1,7 +1,7 @@
 {
   "source_repository": "A-pursuer/X-board",
-  "source_commit": "061c91b",
-  "source_ref": "feature/multi-subscription-v2",
-  "user_version": "2.0.0",
+  "source_commit": "50fa1638690ea704a255a02fce75bab7b60bf84d",
+  "source_ref": "user-v2.0.1-rc.1",
+  "user_version": "2.0.1",
   "theme_name": "XBoardUser"
 }
