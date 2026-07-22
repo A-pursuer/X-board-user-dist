@@ -1,6 +1,6 @@
 {
-  "_AnimateButton-legacy.a092b96b1254.chunk.js": {
-    "file": "static/js/AnimateButton-legacy.a092b96b1254.chunk.js",
+  "_AnimateButton-legacy.cfa220b9397f.chunk.js": {
+    "file": "static/js/AnimateButton-legacy.cfa220b9397f.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
@@ -10,8 +10,8 @@
       "_animation-legacy.ec9ef32a666b.chunk.js"
     ]
   },
-  "_AnimateButton.3c86f909a221.chunk.js": {
-    "file": "static/js/AnimateButton.3c86f909a221.chunk.js",
+  "_AnimateButton.dfcc1871d0fe.chunk.js": {
+    "file": "static/js/AnimateButton.dfcc1871d0fe.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
@@ -187,8 +187,8 @@
       "_react-vendor.7b365462f167.chunk.js"
     ]
   },
-  "_index-legacy.8a431b21494b.chunk.js": {
-    "file": "static/js/index-legacy.8a431b21494b.chunk.js",
+  "_index-legacy.fccfc7d7f52e.chunk.js": {
+    "file": "static/js/index-legacy.fccfc7d7f52e.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
@@ -203,8 +203,8 @@
       "_mui-lab-legacy.83adc74bf388.chunk.js"
     ]
   },
-  "_index.1f5b9b349ea4.chunk.js": {
-    "file": "static/js/index.1f5b9b349ea4.chunk.js",
+  "_index.1ea62b03a84b.chunk.js": {
+    "file": "static/js/index.1ea62b03a84b.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
@@ -269,8 +269,8 @@
   "_order.269a0794995b.chunk.js": {
     "file": "static/js/order.269a0794995b.chunk.js"
   },
-  "_password-strength-legacy.f11b3a21a337.chunk.js": {
-    "file": "static/js/password-strength-legacy.f11b3a21a337.chunk.js",
+  "_password-strength-legacy.85af1453aab9.chunk.js": {
+    "file": "static/js/password-strength-legacy.85af1453aab9.chunk.js",
     "imports": [
       "_react-vendor-legacy.150def0d51e3.chunk.js",
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
@@ -283,8 +283,8 @@
       "_utils-legacy.5b477a6a362d.chunk.js"
     ]
   },
-  "_password-strength.8aeca6b5b1ba.chunk.js": {
-    "file": "static/js/password-strength.8aeca6b5b1ba.chunk.js",
+  "_password-strength.c06e5e7854c0.chunk.js": {
+    "file": "static/js/password-strength.c06e5e7854c0.chunk.js",
     "imports": [
       "_react-vendor.7b365462f167.chunk.js",
       "_mui-core.903a5bbe706d.chunk.js",
@@ -442,7 +442,7 @@
       "src/pages/gift-card/index-legacy.tsx",
       "_dev-tools-legacy.be8caa9e291d.chunk.js"
     ],
-    "file": "static/js/index-legacy.38b797f02604.js",
+    "file": "static/js/index-legacy.dfce15ce743b.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
@@ -501,7 +501,7 @@
       "src/pages/gift-card/index.tsx",
       "_dev-tools.0d4d823f7ff5.chunk.js"
     ],
-    "file": "static/js/index.18af1ac807b5.js",
+    "file": "static/js/index.1e5bee3bc417.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
@@ -565,15 +565,15 @@
     "src": "src/assets/images/software/stash.png"
   },
   "src/pages/auth/forgot-password-legacy.tsx": {
-    "file": "static/js/forgot-password-legacy.8ca78874e9d1.chunk.js",
+    "file": "static/js/forgot-password-legacy.4169bd5e7e98.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
-      "_AnimateButton-legacy.a092b96b1254.chunk.js",
+      "_AnimateButton-legacy.cfa220b9397f.chunk.js",
       "_ui-misc-legacy.41e9eb50b1f7.chunk.js",
       "_forms-legacy.b6e0bb5afcc8.chunk.js",
       "_hooks-legacy.7643a274892e.chunk.js",
-      "_password-strength-legacy.f11b3a21a337.chunk.js",
+      "_password-strength-legacy.85af1453aab9.chunk.js",
       "index-legacy.html",
       "_dev-tools-legacy.be8caa9e291d.chunk.js",
       "_i18n-legacy.db7e46c756b0.chunk.js",
@@ -588,15 +588,15 @@
     "src": "src/pages/auth/forgot-password-legacy.tsx"
   },
   "src/pages/auth/forgot-password.tsx": {
-    "file": "static/js/forgot-password.463e27dc3bab.chunk.js",
+    "file": "static/js/forgot-password.e3c727ec5ec4.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
-      "_AnimateButton.3c86f909a221.chunk.js",
+      "_AnimateButton.dfcc1871d0fe.chunk.js",
       "_ui-misc.54648b06f902.chunk.js",
       "_forms.3a1ad1405113.chunk.js",
       "_hooks.e6bc2aebf02c.chunk.js",
-      "_password-strength.8aeca6b5b1ba.chunk.js",
+      "_password-strength.c06e5e7854c0.chunk.js",
       "index.html",
       "_dev-tools.0d4d823f7ff5.chunk.js",
       "_i18n.43886773007d.chunk.js",
@@ -611,11 +611,11 @@
     "src": "src/pages/auth/forgot-password.tsx"
   },
   "src/pages/auth/login-legacy.tsx": {
-    "file": "static/js/login-legacy.1ac531acefa6.chunk.js",
+    "file": "static/js/login-legacy.b21985f9455c.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
-      "_AnimateButton-legacy.a092b96b1254.chunk.js",
+      "_AnimateButton-legacy.cfa220b9397f.chunk.js",
       "_forms-legacy.b6e0bb5afcc8.chunk.js",
       "_hooks-legacy.7643a274892e.chunk.js",
       "_dev-tools-legacy.be8caa9e291d.chunk.js",
@@ -633,11 +633,11 @@
     "src": "src/pages/auth/login-legacy.tsx"
   },
   "src/pages/auth/login.tsx": {
-    "file": "static/js/login.b8bd25043df0.chunk.js",
+    "file": "static/js/login.02e23d46d1a6.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
-      "_AnimateButton.3c86f909a221.chunk.js",
+      "_AnimateButton.dfcc1871d0fe.chunk.js",
       "_forms.3a1ad1405113.chunk.js",
       "_hooks.e6bc2aebf02c.chunk.js",
       "_dev-tools.0d4d823f7ff5.chunk.js",
@@ -655,13 +655,13 @@
     "src": "src/pages/auth/login.tsx"
   },
   "src/pages/auth/register-legacy.tsx": {
-    "file": "static/js/register-legacy.6addf208af5d.chunk.js",
+    "file": "static/js/register-legacy.0c5af8385917.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
-      "_AnimateButton-legacy.a092b96b1254.chunk.js",
+      "_AnimateButton-legacy.cfa220b9397f.chunk.js",
       "_forms-legacy.b6e0bb5afcc8.chunk.js",
-      "_password-strength-legacy.f11b3a21a337.chunk.js",
+      "_password-strength-legacy.85af1453aab9.chunk.js",
       "_ui-misc-legacy.41e9eb50b1f7.chunk.js",
       "_hooks-legacy.7643a274892e.chunk.js",
       "_dev-tools-legacy.be8caa9e291d.chunk.js",
@@ -679,13 +679,13 @@
     "src": "src/pages/auth/register-legacy.tsx"
   },
   "src/pages/auth/register.tsx": {
-    "file": "static/js/register.cc57178ea16e.chunk.js",
+    "file": "static/js/register.ea5d7cba9fc7.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
-      "_AnimateButton.3c86f909a221.chunk.js",
+      "_AnimateButton.dfcc1871d0fe.chunk.js",
       "_forms.3a1ad1405113.chunk.js",
-      "_password-strength.8aeca6b5b1ba.chunk.js",
+      "_password-strength.c06e5e7854c0.chunk.js",
       "_ui-misc.54648b06f902.chunk.js",
       "_hooks.e6bc2aebf02c.chunk.js",
       "_dev-tools.0d4d823f7ff5.chunk.js",
@@ -707,7 +707,7 @@
       "static/img/announcement_background.e4ad0c10f5d5.svg",
       "static/img/stash.1f36f0a46b8f.png"
     ],
-    "file": "static/js/index-legacy.8c75f09d9d19.chunk.js",
+    "file": "static/js/index-legacy.a42f98d91d93.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
@@ -733,7 +733,7 @@
       "static/img/announcement_background.e4ad0c10f5d5.svg",
       "static/img/stash.1f36f0a46b8f.png"
     ],
-    "file": "static/js/index.1bee2a2f9061.chunk.js",
+    "file": "static/js/index.e44c83eb02f4.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
@@ -755,7 +755,7 @@
     "src": "src/pages/dashboard/index.tsx"
   },
   "src/pages/gift-card/index-legacy.tsx": {
-    "file": "static/js/index-legacy.1b14f74ffdfd.chunk.js",
+    "file": "static/js/index-legacy.08bd9c06bc79.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
@@ -776,7 +776,7 @@
     "src": "src/pages/gift-card/index-legacy.tsx"
   },
   "src/pages/gift-card/index.tsx": {
-    "file": "static/js/index.c0a0fc75f82a.chunk.js",
+    "file": "static/js/index.c2a1d7d7afa2.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
@@ -797,7 +797,7 @@
     "src": "src/pages/gift-card/index.tsx"
   },
   "src/pages/invite/commissions-legacy.tsx": {
-    "file": "static/js/commissions-legacy.6d55022443ef.chunk.js",
+    "file": "static/js/commissions-legacy.6fed5e9c4f1b.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "index-legacy.html",
@@ -819,7 +819,7 @@
     "src": "src/pages/invite/commissions-legacy.tsx"
   },
   "src/pages/invite/commissions.tsx": {
-    "file": "static/js/commissions.9f02142fe6e4.chunk.js",
+    "file": "static/js/commissions.ef86d26e76ba.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "index.html",
@@ -841,7 +841,7 @@
     "src": "src/pages/invite/commissions.tsx"
   },
   "src/pages/invite/index-legacy.tsx": {
-    "file": "static/js/index-legacy.3309a54c2543.chunk.js",
+    "file": "static/js/index-legacy.163d59b9450c.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "index-legacy.html",
@@ -863,7 +863,7 @@
     "src": "src/pages/invite/index-legacy.tsx"
   },
   "src/pages/invite/index.tsx": {
-    "file": "static/js/index.226ede4bea58.chunk.js",
+    "file": "static/js/index.ae2436e500ba.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "index.html",
@@ -885,7 +885,7 @@
     "src": "src/pages/invite/index.tsx"
   },
   "src/pages/knowledge/[id]-legacy.tsx": {
-    "file": "static/js/_id_-legacy.83b1f95099ec.chunk.js",
+    "file": "static/js/_id_-legacy.d653215553af.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
@@ -906,7 +906,7 @@
     "src": "src/pages/knowledge/[id]-legacy.tsx"
   },
   "src/pages/knowledge/[id].tsx": {
-    "file": "static/js/_id_.2f23713c969c.chunk.js",
+    "file": "static/js/_id_.d36ffaa66ed2.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
@@ -927,7 +927,7 @@
     "src": "src/pages/knowledge/[id].tsx"
   },
   "src/pages/knowledge/index-legacy.tsx": {
-    "file": "static/js/index-legacy.0c04836157e8.chunk.js",
+    "file": "static/js/index-legacy.7428301481ed.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "index-legacy.html",
@@ -948,7 +948,7 @@
     "src": "src/pages/knowledge/index-legacy.tsx"
   },
   "src/pages/knowledge/index.tsx": {
-    "file": "static/js/index.21fad1bc9324.chunk.js",
+    "file": "static/js/index.2679d1ba9391.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "index.html",
@@ -973,7 +973,7 @@
       "static/img/Error404.fc1d5475ddd9.png",
       "static/img/TwoCone.870f0bbeecb0.png"
     ],
-    "file": "static/js/404-legacy.b6d0fa3796af.chunk.js",
+    "file": "static/js/404-legacy.ff16d9fd3bb3.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
@@ -998,7 +998,7 @@
       "static/img/Error404.fc1d5475ddd9.png",
       "static/img/TwoCone.870f0bbeecb0.png"
     ],
-    "file": "static/js/404.e760dfc2d218.chunk.js",
+    "file": "static/js/404.be55586f9d6f.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
@@ -1019,7 +1019,7 @@
     "src": "src/pages/maintenance/404.tsx"
   },
   "src/pages/node/status-legacy.tsx": {
-    "file": "static/js/status-legacy.25afb5ee2c8e.chunk.js",
+    "file": "static/js/status-legacy.43f5ebb3f486.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "index-legacy.html",
@@ -1041,7 +1041,7 @@
     "src": "src/pages/node/status-legacy.tsx"
   },
   "src/pages/node/status.tsx": {
-    "file": "static/js/status.4254eccecfdc.chunk.js",
+    "file": "static/js/status.faa67dec8b13.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "index.html",
@@ -1063,7 +1063,7 @@
     "src": "src/pages/node/status.tsx"
   },
   "src/pages/order/[id]-legacy.tsx": {
-    "file": "static/js/_id_-legacy.9fc4ce6e8b4a.chunk.js",
+    "file": "static/js/_id_-legacy.357368b9efd9.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "index-legacy.html",
@@ -1086,7 +1086,7 @@
     "src": "src/pages/order/[id]-legacy.tsx"
   },
   "src/pages/order/[id].tsx": {
-    "file": "static/js/_id_.76fe3ee28caa.chunk.js",
+    "file": "static/js/_id_.56f5f077c8d0.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "index.html",
@@ -1109,7 +1109,7 @@
     "src": "src/pages/order/[id].tsx"
   },
   "src/pages/order/index-legacy.tsx": {
-    "file": "static/js/index-legacy.f9d01fb4680f.chunk.js",
+    "file": "static/js/index-legacy.504eec12598c.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "index-legacy.html",
@@ -1132,7 +1132,7 @@
     "src": "src/pages/order/index-legacy.tsx"
   },
   "src/pages/order/index.tsx": {
-    "file": "static/js/index.c4280dbf9bda.chunk.js",
+    "file": "static/js/index.f8a3bdb25443.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "index.html",
@@ -1155,7 +1155,7 @@
     "src": "src/pages/order/index.tsx"
   },
   "src/pages/plan/buy/[id]-legacy.tsx": {
-    "file": "static/js/_id_-legacy.3c0dc41d6e9d.chunk.js",
+    "file": "static/js/_id_-legacy.c5ef25d63a8c.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
@@ -1178,7 +1178,7 @@
     "src": "src/pages/plan/buy/[id]-legacy.tsx"
   },
   "src/pages/plan/buy/[id].tsx": {
-    "file": "static/js/_id_.42b90567b2a4.chunk.js",
+    "file": "static/js/_id_.9050718739c7.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
@@ -1201,7 +1201,7 @@
     "src": "src/pages/plan/buy/[id].tsx"
   },
   "src/pages/plan/buy/index-legacy.tsx": {
-    "file": "static/js/index-legacy.d08897134114.chunk.js",
+    "file": "static/js/index-legacy.15c728ae9d5a.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
@@ -1225,7 +1225,7 @@
     "src": "src/pages/plan/buy/index-legacy.tsx"
   },
   "src/pages/plan/buy/index.tsx": {
-    "file": "static/js/index.b79edf0d89b1.chunk.js",
+    "file": "static/js/index.98e5a17d7db3.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
@@ -1249,7 +1249,7 @@
     "src": "src/pages/plan/buy/index.tsx"
   },
   "src/pages/profile/index-legacy.tsx": {
-    "file": "static/js/index-legacy.560bd37fc2e3.chunk.js",
+    "file": "static/js/index-legacy.4a5d94cec537.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
@@ -1272,7 +1272,7 @@
     "src": "src/pages/profile/index-legacy.tsx"
   },
   "src/pages/profile/index.tsx": {
-    "file": "static/js/index.717cb8f3963e.chunk.js",
+    "file": "static/js/index.c95faa8a0858.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
@@ -1295,7 +1295,7 @@
     "src": "src/pages/profile/index.tsx"
   },
   "src/pages/subscriptions/index-legacy.tsx": {
-    "file": "static/js/index-legacy.a896b584542e.chunk.js",
+    "file": "static/js/index-legacy.e312bea75f01.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
@@ -1316,7 +1316,7 @@
     "src": "src/pages/subscriptions/index-legacy.tsx"
   },
   "src/pages/subscriptions/index.tsx": {
-    "file": "static/js/index.16b669de718e.chunk.js",
+    "file": "static/js/index.21406ba87101.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
@@ -1337,11 +1337,11 @@
     "src": "src/pages/subscriptions/index.tsx"
   },
   "src/pages/ticket/[id]-legacy.tsx": {
-    "file": "static/js/_id_-legacy.345aeeafb90d.chunk.js",
+    "file": "static/js/_id_-legacy.2e0bbfaa327e.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "index-legacy.html",
-      "_index-legacy.8a431b21494b.chunk.js",
+      "_index-legacy.fccfc7d7f52e.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
       "_emotion-legacy.0e452ab2ab41.chunk.js",
       "_state-management-legacy.b3e9ec8554c9.chunk.js",
@@ -1361,11 +1361,11 @@
     "src": "src/pages/ticket/[id]-legacy.tsx"
   },
   "src/pages/ticket/[id].tsx": {
-    "file": "static/js/_id_.9de9873fdfcf.chunk.js",
+    "file": "static/js/_id_.765a3ca3fea9.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "index.html",
-      "_index.1f5b9b349ea4.chunk.js",
+      "_index.1ea62b03a84b.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
       "_emotion.8bcbfa345bfd.chunk.js",
       "_state-management.1cc75947a0dd.chunk.js",
@@ -1385,11 +1385,11 @@
     "src": "src/pages/ticket/[id].tsx"
   },
   "src/pages/ticket/index-legacy.tsx": {
-    "file": "static/js/index-legacy.2ec5d937d9c7.chunk.js",
+    "file": "static/js/index-legacy.752ee2818a67.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "index-legacy.html",
-      "_index-legacy.8a431b21494b.chunk.js",
+      "_index-legacy.fccfc7d7f52e.chunk.js",
       "_react-vendor-legacy.150def0d51e3.chunk.js",
       "_emotion-legacy.0e452ab2ab41.chunk.js",
       "_state-management-legacy.b3e9ec8554c9.chunk.js",
@@ -1409,11 +1409,11 @@
     "src": "src/pages/ticket/index-legacy.tsx"
   },
   "src/pages/ticket/index.tsx": {
-    "file": "static/js/index.b5b6b2f98afe.chunk.js",
+    "file": "static/js/index.02115a82fd84.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "index.html",
-      "_index.1f5b9b349ea4.chunk.js",
+      "_index.1ea62b03a84b.chunk.js",
       "_react-vendor.7b365462f167.chunk.js",
       "_emotion.8bcbfa345bfd.chunk.js",
       "_state-management.1cc75947a0dd.chunk.js",
@@ -1436,7 +1436,7 @@
     "dynamicImports": [
       "_charts-legacy.ac3668669d78.chunk.js"
     ],
-    "file": "static/js/index-legacy.7061c6678491.chunk.js",
+    "file": "static/js/index-legacy.93b3291e0e88.chunk.js",
     "imports": [
       "_mui-core-legacy.f4a6d27c3b16.chunk.js",
       "_i18n-legacy.db7e46c756b0.chunk.js",
@@ -1462,7 +1462,7 @@
     "dynamicImports": [
       "_charts.ce736ef6a643.chunk.js"
     ],
-    "file": "static/js/index.2d3286b6fd31.chunk.js",
+    "file": "static/js/index.3ae7472b3fcf.chunk.js",
     "imports": [
       "_mui-core.903a5bbe706d.chunk.js",
       "_i18n.43886773007d.chunk.js",
