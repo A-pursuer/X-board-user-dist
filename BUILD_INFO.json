@@ -1,7 +1,7 @@
 {
   "source_repository": "A-pursuer/X-board",
-  "source_commit": "0ccaf63d549279c7e69f975e9c1c8d726638ba2d",
-  "source_ref": "user-v2.0.2",
-  "user_version": "2.0.2",
+  "source_commit": "253cfd4772aacaba2aac05da7c312e764056c757",
+  "source_ref": "user-v3.0.0",
+  "user_version": "3.0.0",
   "theme_name": "XBoardUser"
 }

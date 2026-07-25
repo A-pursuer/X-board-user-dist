@@ -1,0 +1,1 @@
+System.register([],function(s,r){"use strict";return{execute:function(){class r extends Error{code;status;constructor(s,r="SUBSCRIPTION_ERROR",t=0){super(s),this.name="SubscriptionError",this.code=r,this.status=t}}s("S",r),s("a",s=>s instanceof r?s:s instanceof Error?new r(s.message):new r("Unknown subscription error"))}}});
