@@ -10,7 +10,7 @@
   <title>{{$title}}</title>
   <meta name="description" content="Account and subscription portal" />
   <meta name="robots" content="noindex,nofollow" />
-  <script type="module" crossorigin src="./static/js/index.3314b1b35e3a.js"></script>
+  <script type="module" crossorigin src="./static/js/index.b9c9ac184548.js"></script>
   <link rel="modulepreload" crossorigin href="./static/js/react-vendor.d0d30b5e4991.chunk.js">
   <link rel="modulepreload" crossorigin href="./static/js/emotion.705178eeecbe.chunk.js">
   <link rel="modulepreload" crossorigin href="./static/js/mui-core.d3cde4a25d4e.chunk.js">
@@ -32,8 +32,10 @@
     window.settings = {
       title: @json($title),
       description: @json($description),
-      logo: @json($logo),
+      logo: @json($theme_config['logo_url'] ?? $logo),
       background_url: @json($theme_config['background_url'] ?? ''),
+      theme_color: @json($theme_config['theme_color'] ?? ''),
+      theme_variant: @json($theme === 'TianYuan-V4' ? 'tianyuan-industrial' : 'xboard-user'),
       api: '',
       i18n: ['zh-CN', 'en-US']
     };
@@ -48,7 +50,7 @@
   </script>
   <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
   <script nomodule crossorigin id="vite-legacy-polyfill" src="./static/js/polyfills-legacy.6bf0a4f23138.js"></script>
-  <script nomodule crossorigin id="vite-legacy-entry" data-src="./static/js/index-legacy.0d77cae5223e.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+  <script nomodule crossorigin id="vite-legacy-entry" data-src="./static/js/index-legacy.54a8f02536e0.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
   {!! $theme_config['custom_html'] ?? '' !!}
 </body>
 </html>
