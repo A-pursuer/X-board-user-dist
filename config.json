@@ -1,7 +1,7 @@
 {
   "name": "XBoardUser",
-  "description": "Self-maintained XBoard user portal with multi-subscription support",
-  "version": "3.0.0",
+  "description": "Account and subscription portal",
+  "version": "5.0.1",
   "images": "",
   "configs": [
     {

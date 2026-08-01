@@ -1,1 +1,0 @@
-System.register(["./react-vendor-legacy.150def0d51e3.chunk.js"],function(e,r){"use strict";var t;return{setters:[e=>{t=e.u}],execute:function(){e("u",()=>{const{search:e}=t();return new URLSearchParams(e)})}}});
