@@ -10,7 +10,7 @@
   <title>{{$title}}</title>
   <meta name="description" content="Account and subscription portal" />
   <meta name="robots" content="noindex,nofollow" />
-  <script type="module" crossorigin src="./static/js/index.e57ae6734692.js"></script>
+  <script type="module" crossorigin src="./static/js/index.14760b3e483b.js"></script>
   <link rel="modulepreload" crossorigin href="./static/js/react-vendor.d0d30b5e4991.chunk.js">
   <link rel="modulepreload" crossorigin href="./static/js/emotion.5db2b6b88937.chunk.js">
   <link rel="modulepreload" crossorigin href="./static/js/mui-core.1f5da8bea91d.chunk.js">
@@ -50,7 +50,7 @@
   </script>
   <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
   <script nomodule crossorigin id="vite-legacy-polyfill" src="./static/js/polyfills-legacy.6bf0a4f23138.js"></script>
-  <script nomodule crossorigin id="vite-legacy-entry" data-src="./static/js/index-legacy.3c88259c73ec.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+  <script nomodule crossorigin id="vite-legacy-entry" data-src="./static/js/index-legacy.1041df6d331b.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
   {!! $theme_config['custom_html'] ?? '' !!}
 </body>
 </html>
