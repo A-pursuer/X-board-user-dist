@@ -1,7 +1,7 @@
 {
   "name": "XBoardUser",
   "description": "Account and subscription portal",
-  "version": "6.4.0",
+  "version": "6.4.1",
   "minimum_selfhost_version": "6.4.0",
   "images": "",
   "configs": [
